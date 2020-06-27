@@ -1,44 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div id="readme" class="Box-body readme blob js-code-block-container">
+  <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
+    <h2 align="center">React Github Repositories List</h2>
+    <blockquote align="center">“The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt</blockquote>
+    <p align="center">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/react-github-repo-list">
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gisabernardess/react-github-repo-list">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gisabernardess/react-github-repo-list">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gisabernardess/react-github-repo-list">
+      <img alt="GitHub" src="https://img.shields.io/github/license/gisabernardess/react-github-repo-list">
+    </p>
+    <h2>:rocket: Technologies </h2>
+    <p>This project was developed with the following technologies:</p>
+    <ul>
+      <li><a href="https://reactjs.org/" rel="nofollow">ReactJS</a></li>
+      <li><a href="https://pt-br.reactjs.org/docs/hooks-intro.html" rel="nofollow">React Hooks</a></li>
+      <li><a href="https://styled-components.com/" rel="nofollow">styled-components</a></li>
+      <li><a href="https://developer.github.com/v4/">GitHub REST API v4</a></li>
+      <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a
+          href="https://eslint.org/" rel="nofollow">ESLint</a>
+        + <a href="https://prettier.io/" rel="nofollow">Prettier</a> 
+        + <a href="https://editorconfig.org/" rel="nofollow">EditorConfig</a></li>
+    </ul>
+    <h2>:information_source:</a> How To Use </h2>
+    <p>To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> and  <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a>. From your command line:</p>
+    <div class="highlight highlight-source-shell">
+      <pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span> 
+$ git clone https://github.com/gisabernardess/react-github-repo-list <br/>
+<span class="pl-c"><span class="pl-c">#</span> Go into the repository</span> 
+$ <span class="pl-c1">cd</span> react-github-repo-list <br/>
+<span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
+$ yarn <br/>
+<span class="pl-c"><span class="pl-c">#</span> Run the development server</span>
+$ yarn start <br/>
+<span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:3000</span>
+<span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
+</div>
+    <h2>:pencil:</a> License </h2>
+    <p>This project is under the MIT license. See the LICENSE for more information.</p>
+    <hr>
+    <p>Made with ♥ by Gisele Silva :wave: <a href="https://www.linkedin.com/in/gisabernardess/" rel="nofollow">Get in touch!</a></p>
+  </article>
+</div>

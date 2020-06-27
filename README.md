@@ -15,7 +15,7 @@
       <li><a href="https://reactjs.org/" rel="nofollow">ReactJS</a></li>
       <li><a href="https://pt-br.reactjs.org/docs/hooks-intro.html" rel="nofollow">React Hooks</a></li>
       <li><a href="https://styled-components.com/" rel="nofollow">styled-components</a></li>
-      <li><a href="https://developer.github.com/v4/">GitHub REST API v4</a></li>
+      <li><a href="https://developer.github.com/v4/" rel="nofollow">GitHub REST API v4</a></li>
       <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a
           href="https://eslint.org/" rel="nofollow">ESLint</a>
         + <a href="https://prettier.io/" rel="nofollow">Prettier</a> 
@@ -36,7 +36,7 @@ $ yarn start <br/>
 <span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
 </div>
     <h2>:pencil:</a> License </h2>
-    <p>This project is under the MIT license. See the LICENSE for more information.</p>
+    <p>This project is under the MIT license. See the <a href="https://github.com/gisabernardess/react-api/blob/master/LICENSE" rel="nofollow">LICENSE</a> for more information.</p>
     <hr>
     <p>Made with ♥ by Gisele Silva :wave: <a href="https://www.linkedin.com/in/gisabernardess/" rel="nofollow">Get in touch!</a></p>
   </article>
